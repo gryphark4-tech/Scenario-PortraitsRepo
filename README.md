@@ -1,10 +1,11 @@
-# Scenario-PortraitsRepo
+# 📝​Scenario-PortraitsRepo
 A collection of JSON files used for Portraits for various AI Dungeon Scenarios made by me.
 
-Available Scenario Portraits so far:
+​**Available Scenario Portraits so far:**
+
  • Stratos Crisis: Beyond the Void
 
-# Installation for PC:
+# 🖥️Installation for PC​​:
   1. **[REQUIRED]** Install Mahesvara/Oratorian's Dungeon Extension v2 Resurrected, the links are provided below:
   
       - [Chrome Extension Link](https://chromewebstore.google.com/detail/keegfhpckdjecndjlgmjnjlfhlnepiga?utm_source=item-share-cb)
@@ -34,5 +35,7 @@ Available Scenario Portraits so far:
 
   <img width="642" height="902" alt="image" src="https://github.com/user-attachments/assets/bd3f1bf8-9a1b-4752-8773-70db9ab3a493" />
 
+---
+# 🖼️​In-Game Preview:
 
-
+<img width="691" height="571" alt="image" src="https://github.com/user-attachments/assets/0051efeb-d366-4d32-945a-29be6a47c294" />
