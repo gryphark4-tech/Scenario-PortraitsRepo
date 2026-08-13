@@ -7,6 +7,18 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
  
  • Cogitium Rising: Final Protocol
 
+**Upcoming Ones:**
+
+ • Project Hail Mary (Working on it)
+ 
+ • Resonant Spark: Awakening at Hallowstone (Queued)
+ 
+ • Echoes of the Anvil (Queued)
+ 
+ • A Potion's Tale (Queued)
+
+---
+
 # 🖥️Installation for PC​​:
   1. **[REQUIRED]** Install Mahesvara/Oratorian's Dungeon Extension v2 Resurrected, the links are provided below:
   
