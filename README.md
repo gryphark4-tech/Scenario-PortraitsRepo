@@ -4,6 +4,8 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
 ​**Available Scenario Portraits so far:**
 
  • Stratos Crisis: Beyond the Void
+ 
+ • Cogitium Rising: Final Protocol
 
 # 🖥️Installation for PC​​:
   1. **[REQUIRED]** Install Mahesvara/Oratorian's Dungeon Extension v2 Resurrected, the links are provided below:
