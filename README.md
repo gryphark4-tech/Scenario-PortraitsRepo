@@ -77,3 +77,7 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
 
    <img width="1689" height="1175" alt="image" src="https://github.com/user-attachments/assets/d8d3527c-56b0-4ed4-9a99-0972a84cc646" />
 
+---
+# ​​❓​FAQs​​❓​
+   - For issues involving the plugin that you may encounter, head on over to the [Discord Link](https://discord.com/channels/903327676884979802/1537060408471330877) of the plugin itself so that the devs can quickly help you with the issue/s you encountered.
+
