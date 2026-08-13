@@ -73,7 +73,7 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
 
 **Sci-Fi Portraits**: Can be used for Stratos Core: Beyond the Void and Cogitium Rising: Final Protocol. _Refer to the file names below to see which file fits your character the most._
 
-   - [Download Page Link]()
+   - [Download Page Link](https://github.com/gryphark4-tech/Scenario-PortraitsRepo/releases/tag/SciFi_Portraits)
 
    <img width="1689" height="1175" alt="image" src="https://github.com/user-attachments/assets/d8d3527c-56b0-4ed4-9a99-0972a84cc646" />
 
