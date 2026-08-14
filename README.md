@@ -57,11 +57,11 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
 ---
 # Optional: ♂️​​Player Portraits​♀️
 
-   -  I also have a free collection of player portraits​ if you want to put a portrait of your character in your adventure; then you can add a portrait by either using one of the photos provided here or using your own. I will be adding more player portraits for all of my scenarios as well.
+   -  I also have a free collection of player portraits​ if you want to put a portrait of your character in your adventure by using one of the photos provided here; alternatively, you can use your own.
 
 ---
   # ​⚙️​Instructions: 
-   1. Download the picture of your chosen player portrait and the Player Icon in the Release page of the Player Portraits. Afterwards, in the Adventure tab in the editor options, click the "Add Characters".
+   1. Download the picture of your chosen player portrait and the Player Icon in the Release page of the Player Portraits. Afterwards, in the Adventure tab in the editor options, click "Add Characters".
 
    <img width="344" height="476" alt="image" src="https://github.com/user-attachments/assets/6df9aecc-2ee3-4f4a-ba00-f572a1cdc9b8" />
 
