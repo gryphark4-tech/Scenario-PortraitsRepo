@@ -7,10 +7,10 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
  
  • Cogitium Rising: Final Protocol
 
+  • Project Hail Mary
+
 **Upcoming Ones:**
 
- • Project Hail Mary (Working on it)
- 
  • Resonant Spark: Awakening at Hallowstone (Queued)
  
  • Echoes of the Anvil (Queued)
