@@ -30,16 +30,18 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
          
      *NOTE:* Sometimes updates can be delayed due to the approval process in submissions in the web stores of the browsers, so I recommend checking the Discord link, as the latest updates are posted there early.
 
-  2. Launch your current adventure of that specific scenario and press the ember rectangle button on the upper left to open the game options, and click the Editor option that should appear if the plugin is installed correctly.
+  2. Launch your current adventure of that specific scenario and press the Green Fox button that will appear on the border of your tab window once you've installed the add-on to open the game options, and click the Editor option that should appear if the plugin is installed correctly.
  
-   <img width="376" height="535" alt="image" src="https://github.com/user-attachments/assets/a094e6a0-a32d-4a53-a271-053349e7fb3d" />
+   <img width="160" height="162" alt="image" src="https://github.com/user-attachments/assets/0b751ce2-8898-46a5-8a90-0e764f01c510" />
+
 
   3. Click the Settings tab on the window that will pop up, click the GitHub Repos to reveal the bar where you will paste the link to this Repository, and click the "+Add" button after pasting the link.
 
       - **Link:** https://github.com/gryphark4-tech/Scenario-PortraitsRepo
 
 
-  <img width="623" height="769" alt="image" src="https://github.com/user-attachments/assets/7ee9ce61-d3c8-493b-8735-64950a6c5a7d" />
+  <img width="639" height="820" alt="image" src="https://github.com/user-attachments/assets/92c56032-ff6f-47a6-a413-f3ab6657cbba" />
+
 
   4. On the Adventure tab, click the Adventure Picker, Import Adventure, and select the "From GitHub" tab, where you can click the Repository folder, and choose the JSON file of the scenario you are playing, and select "Import".
 
