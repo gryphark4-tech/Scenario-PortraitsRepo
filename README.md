@@ -3,7 +3,7 @@ A collection of JSON files used for Portraits for various AI Dungeon Scenarios m
 
 ​**Available Scenario Portraits so far:**
 
- • Stratos Crisis: Beyond the Void
+ • Stratos Core: Beyond the Void
  
  • Cogitium Rising: Final Protocol
 
